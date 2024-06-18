@@ -1,11 +1,20 @@
 # aleixtoews.github.io
-<link href="aleixtoews.github.io" rel="stylesheet">
 
-<nav role="navigation" class="primary-navigation">
-  <ul>
-    <li><a href="#">Life</a></li>
-    <li><a href="#">Work</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Contact</a></li>
-  </ul>
-</nav>
+<html>
+<head>
+  <title>Aleix Toews
+</title>
+</head>
+<body>
+  <h1> Professsional Services</h1>
+  <p> Currently I study BioResource Engineering at McGill universitry. I grew up in the Yukon Working as a Raft Guide and am now employed at Yukon Energy
+  </p>
+</body>
+<h2> LifeStyle
+</h2>
+<body> Work hard play hard ?
+</body>
+  
+</html>
+    
+  
